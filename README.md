@@ -1,2 +1,2 @@
-# llmao
+# llamao
 LLM helpers and examples
